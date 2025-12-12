@@ -1,1 +1,12 @@
-{}
+{
+  "channels": [
+    {
+      "link": "https://whatsapp.com/channel/0029Vb71eSHAO7RPwptzlz3i",
+      "jid": "120363424074021606@newsletter",
+      "expiredate": "2025/12/15",
+      "expiretime": "21:35:01",
+      "active": "on",
+      "emogis": "❤️,😁"
+    }
+  ]
+}
