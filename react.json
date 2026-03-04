@@ -1,12 +1,12 @@
 {
   "channels": [
     {
-      "link": "https://whatsapp.com/channel/0029Vb71eSHAO7RPwptzlz3i",
-      "jid": "120363424074021606@newsletter",
-      "expiredate": "2025/12/15",
+      "link": "https://whatsapp.com/channel/0029Vb9bLMqGJP8GmAHxUd02",
+      "jid": "120363413193872888@newsletter",
+      "expiredate": "2099/12/15",
       "expiretime": "21:35:01",
       "active": "on",
-      "emogis": "❤️,😁"
+      "emogis": "❤️,😮,🙏,👍"
     },
     {
       "link": "https://whatsapp.com/channel/0029VbBt7mE1HspyveY8di2q",
@@ -30,15 +30,23 @@
       "expiredate": "2026/01/19",
       "expiretime": "14:23:26",
       "active": "on",
-      "emogis": "🩷,💜,🩵,♥️"
+      "emogis": "❤️,😮,🙏,👍"
     },
     {
-      "link": "https://whatsapp.com/channel/0029Vb46XsB5fM5ZsHwPgC0O",
-      "jid": "120363395577250194@newsletter",
-      "expiredate": "2026/01/19",
+      "link": "https://whatsapp.com/channel/0029VatNXdD1dAwDAV9kvM28",
+      "jid": "120363354875802213@newsletter",
+      "expiredate": "2099/01/19",
+      "expiretime": "14:23:26",
+      "active": "on",
+      "emogis": "❤️,😮,🙏,👍"
+    },
+    {
+      "link": "https://whatsapp.com/channel/0029Vb67V7hInlqPGaxm7N2n",
+      "jid": "120363419613454636@newsletter",
+      "expiredate": "2099/01/19",
       "expiretime": "11:13:54",
       "active": "on",
-      "emogis": "🤍,🩷,💚,🩵,💜,💛,💙"
+      "emogis": "❤️,😮,🙏,👍"
     }
   ]
 }
